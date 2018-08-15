@@ -9,7 +9,7 @@ Usage:
 
 Example of map file:
 
-1 1 1 1 1 1 1
+1 1 1 1 1 1 1\n
 1 0 0 0 3 3 1
 1 0 0 p 3 0 1
 1 0 0 1 3 0 1
